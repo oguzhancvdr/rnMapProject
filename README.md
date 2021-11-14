@@ -1,8 +1,8 @@
-<h1 align="center">RN-Project-7-Restaurant-App-With-Google-Maps</h1>
+<h1 align="center">Restaurant-App-With-Google-Maps</h1>
 
 <div align="center">
   <h3>
-    <a href="https://github.com/ofkarakus/RN-Project-7-Restaurant-App">
+    <a href="https://github.com/oguzhancvdr/rnMapProject">
       Project Source
     </a>
   </h3>
